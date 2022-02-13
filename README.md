@@ -52,4 +52,4 @@ npm run build:css
 
 ## Mobile Version
 
-<img src="https://user-images.githubusercontent.com/88436030/153768764-e24bc5c2-2e04-4e17-ae4a-8e4809665644.png" style="width= 400px"/>
+<img src="https://user-images.githubusercontent.com/88436030/153768764-e24bc5c2-2e04-4e17-ae4a-8e4809665644.png" style="width= 50px"/>
