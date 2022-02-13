@@ -8,7 +8,7 @@ Built with HTML, CSS, SASS by Jonas Schmedtmann Advanced Advanced CSS and Sass: 
 1. Clone the repo
 
 ```sh
-https://github.com/acelyavul/natours_advanced_sass_jonas_schmedtmann-.git
+https://github.com/acelyavul/trillo_advanced_sass_jonas_schmedtmann.git
 
 ```
 
@@ -21,7 +21,7 @@ npm install
 3. Start the project on Development Enviroment
 
 ```sh
-npm run watch:sass
+npm start
 ```
 
 4. Build the project
@@ -46,4 +46,10 @@ npm run build:css
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/88436030/151719407-c554d02a-ba42-4fce-af4a-d151d8d43645.jpeg" style="width= 400px"/>
+## Desktop Version
+
+<img src="https://user-images.githubusercontent.com/88436030/153768720-68e03c12-05b0-4d89-b8f2-9066f2e06beb.png" style="width= 400px"/>
+
+## Mobile Version
+
+<img src="https://user-images.githubusercontent.com/88436030/153768764-e24bc5c2-2e04-4e17-ae4a-8e4809665644.png" style="width= 400px"/>
