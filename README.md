@@ -48,8 +48,8 @@ npm run build:css
 
 ## Desktop Version
 
-<img src="https://user-images.githubusercontent.com/88436030/153768720-68e03c12-05b0-4d89-b8f2-9066f2e06beb.png" style="width= 400px"/>
+<img src="https://user-images.githubusercontent.com/88436030/153768720-68e03c12-05b0-4d89-b8f2-9066f2e06beb.png" width="800px"/>
 
 ## Mobile Version
 
-<img src="https://user-images.githubusercontent.com/88436030/153768764-e24bc5c2-2e04-4e17-ae4a-8e4809665644.png" style="width= 50px"/>
+<img src="https://user-images.githubusercontent.com/88436030/153768764-e24bc5c2-2e04-4e17-ae4a-8e4809665644.png" width="250px"/>
